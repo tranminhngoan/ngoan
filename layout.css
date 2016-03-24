@@ -1,0 +1,37 @@
+.container {
+	width:960px;
+	background:silver;
+	margin-left:auto;
+	margin-right:auto;
+}
+.grid {
+	width:940px;
+	margin-left:10px;
+	margin-right:10px;
+	float: left;
+	
+}
+.grid_5 {
+	width:380px;
+	margin-left:10px;
+	margin-right:10px;
+	float: left;
+}
+.grid_7 {
+	width:540px;
+	margin-left:10px;
+	margin-right:10px;
+	float: left;
+}
+.grid {
+	width:940px;
+	margin-left:10px;
+	margin-right:10px;
+	float: left;
+}
+.alpha {
+	margin-left:0px;
+}
+.omega {
+	margin-right:0px;
+}
